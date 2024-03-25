@@ -42,7 +42,7 @@ const MARQUEE_SECTION = () => {
             <div className="flex px-2">
               <div>
                 <Image
-                  src="https://res.cloudinary.com/denl2iizs/image/upload/v1706263980/m0cfzyyx9iktcpjbeawq.png"
+                  src="https://res.cloudinary.com/dzfsxpblt/image/upload/v1711358559/code-components/etksaftt0ws6bwqsfbgj.png"
                   alt="fixImage"
                   unoptimized
                   width={500}
@@ -54,7 +54,7 @@ const MARQUEE_SECTION = () => {
               </div>
               <div>
                 <Image
-                  src="https://res.cloudinary.com/denl2iizs/image/upload/v1706263993/lvai4zdegvdeo2bkgf1p.png"
+                  src="https://res.cloudinary.com/dzfsxpblt/image/upload/v1711358558/code-components/rfilbudp6eol4jlvjege.png"
                   alt="fixImage"
                   unoptimized
                   width={800}
